@@ -2,10 +2,14 @@
 # <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=48&id=86846&format=png&color=e6543e" alt="Red user icon"/></a> Hello, I'm Gabriela
 
 <!-- About -->
-  I'm a college student at [Estacio](https://estacio.br) majoring in Computer Science, currently on my sixth semester.
-  <p>I've worked as a digital illustrator for about 6 years, aswell as done video editing in multiple softwares for youtube, as for programming i found C and Python to be my favorite languages to work with with how intuitive they are.</p>
+  Hello, I'm gabriela and welcome to my profile!
   
-  Please visit my [Itch.io](https://cupcakecrazier.itch.io/) to see my GMTK Jam entries, and my [Portfolio](https://cupcakecrazier.wixsite.com/info) for my previous commissions and Game-Art assets
+  <p>I'm a computer science student at Estacio university, and also a hobbyins game dev and artist on my free time.</p>
+
+
+## <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=60967&format=png&color=e6543e"/></a> Code Backlog <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=60967&format=png&color=e6543e"/></a>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaPeroni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=86627&format=png&color=e6543e"/></a> Languages <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=86627&format=png&color=e6543e"/></a>
 
@@ -21,7 +25,7 @@
   <a href="https://cupcakecrazier.wixsite.com/info">
     <img src="https://img.icons8.com/?size=30&id=89777&format=png&color=e6543e" alt="Red Web icon" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriela-peroni-5a873b1a4/">
+  <a href="https://www.linkedin.com/in/gabrielapeeroni/">
     <img src="https://img.icons8.com/?size=30&id=85044&format=png&color=e6543e" alt="Red Linkedin icon" />
   </a>
   <a href="https://twitter.com/CupcakeCrazier">
