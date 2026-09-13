@@ -9,7 +9,7 @@
 
 ## <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=60967&format=png&color=e6543e"/></a> Code Backlog <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=60967&format=png&color=e6543e"/></a>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielaPeroni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=GabrielaPeroni&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=86627&format=png&color=e6543e"/></a> Languages <a href="https://github.com/GabrielaPeroni"><img src="https://img.icons8.com/?size=30&id=86627&format=png&color=e6543e"/></a>
 
